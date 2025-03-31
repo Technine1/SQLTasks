@@ -1,0 +1,3 @@
+-- Скрипт наполнения базы данных
+-- Вставка значений в таблицы: Departments, Roles, Employees, Projects, Tasks, Hotel, Room, Customer, Booking
+-- Подробности см. в описании выше
